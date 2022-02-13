@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+    border-top-right-radius: 10em;
+}
+div.inset{
+    border-style: inset;
+    border-color: black;
+    box-sizing: border-box;
+}
+div.align{
+    text-align: center;
+}
+#textbox{
+    height: 30px;
+    width: 300px;
+}
+#submit{
+    align-items: center;
+}
+#padding{
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.floatRight
+{
+    float:right;
+    padding-bottom: 20px;
+    margin-top: 1px;
+    margin-left:50px
+}
